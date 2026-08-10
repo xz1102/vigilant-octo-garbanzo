@@ -10,6 +10,8 @@
 安装依赖命令：
 ```bash
 pip install requests jieba wordcloud
+```
+使用方法:下载压缩包后,将压缩包移动至vscode，下载第三方库后即可运行
 
 ## ⚠️注意事项
 1. 豆瓣有反爬机制，建议设置请求间隔，不要高频大量请求。
